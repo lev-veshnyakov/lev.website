@@ -309,80 +309,53 @@
 	<g>
 		<g>
 			<g>
-				<g>
-					
-						<rect x="-36.767" y="26.945" transform="matrix(-0.3137 -0.9495 0.9495 -0.3137 -2.8756 209.675)" fill="#F7F9F8" width="222.208" height="157.863"/>
-				</g>
+				
+					<rect x="-36.767" y="26.945" transform="matrix(-0.3137 -0.9495 0.9495 -0.3137 -2.8756 209.675)" fill="#FFFFFF" width="222.208" height="157.863"/>
 			</g>
 		</g>
-		<g>
-			
-				<rect x="68.791" y="48.848" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 205.913 70.5584)" fill="#B7BFC7" width="56.977" height="5.997"/>
-			
-				<rect x="71.931" y="58.332" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 215.0093 88.0644)" fill="#DCE4E8" width="56.977" height="5.998"/>
-			
-				<rect x="75.069" y="67.832" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 224.1067 105.5998)" fill="#DCE4E8" width="56.976" height="5.998"/>
-			
-				<rect x="78.201" y="77.325" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 233.19 123.1268)" fill="#DCE4E8" width="56.975" height="6"/>
-		</g>
+	</g>
+	<g opacity="0.4">
+		<title>Layer 1</title>
 		
-			<rect x="-12.205" y="42.878" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 121.1542 72.2579)" fill="#DCE4E8" width="133.936" height="5.997"/>
+			<ellipse id="svg_1" transform="matrix(-0.3097 -0.9508 0.9508 -0.3097 -8.907 230.8811)" fill="#999999" cx="79.358" cy="118.674" rx="58.003" ry="42.965"/>
 		
-			<rect x="-18.474" y="13.899" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 102.9719 37.212)" fill="#B7BFC7" width="133.933" height="25.985"/>
-		<g>
-			
-				<rect x="9.126" y="107.445" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 182.9921 191.4417)" fill="#DCE4E8" width="133.936" height="5.997"/>
-			
-				<rect x="12.266" y="116.939" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 192.0903 208.9673)" fill="#DCE4E8" width="133.933" height="5.999"/>
-			
-				<rect x="15.404" y="126.437" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 201.1856 226.4991)" fill="#DCE4E8" width="133.931" height="5.999"/>
-		</g>
-		<g>
-			
-				<rect x="33.596" y="181.505" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 253.9301 328.1476)" fill="#DCE4E8" width="133.934" height="5.999"/>
-			
-				<rect x="37.482" y="195.701" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 236.7347 359.3094)" fill="#DCE4E8" width="103.953" height="6"/>
-		</g>
-		<g>
-			
-				<rect x="22.48" y="151.532" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 179.0143 280.2552)" fill="#B7BFC7" width="88.957" height="5.997"/>
-			
-				<rect x="25.617" y="161.03" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 188.1069 297.7872)" fill="#DCE4E8" width="88.954" height="5.997"/>
-			
-				<rect x="28.768" y="170.523" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 197.2278 315.3069)" fill="#DCE4E8" width="88.954" height="5.998"/>
-			
-				<rect x="120.952" y="128.45" transform="matrix(-0.9496 0.3136 -0.3136 -0.9496 314.3074 232.3641)" fill="#44C650" width="35.029" height="26.019"/>
-		</g>
-		<g>
-			
-				<rect x="1.635" y="80.1" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 40.7846 189.6259)" fill="#DCE4E8" width="7.001" height="35.99"/>
-			
-				<rect x="11.131" y="76.935" transform="matrix(-0.9495 0.3139 -0.3139 -0.9495 58.3243 180.4925)" fill="#DCE4E8" width="7" height="36.012"/>
-			
-				<rect x="20.627" y="73.787" transform="matrix(-0.9495 0.3139 -0.3139 -0.9495 75.8477 171.3761)" fill="#DCE4E8" width="7" height="36.015"/>
-			
-				<rect x="30.133" y="70.658" transform="matrix(-0.9495 0.3139 -0.3139 -0.9495 93.3951 162.2813)" fill="#DCE4E8" width="7" height="36.002"/>
-			
-				<rect x="39.6" y="67.55" transform="matrix(-0.9495 0.3138 -0.3138 -0.9495 110.8647 153.2323)" fill="#DCE4E8" width="6.999" height="35.978"/>
-			
-				<rect x="49.09" y="64.403" transform="matrix(-0.9497 0.3133 -0.3133 -0.9497 128.3445 144.1714)" fill="#DCE4E8" width="6.998" height="35.989"/>
-			
-				<rect x="58.613" y="61.252" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 145.9533 135.0128)" fill="#DCE4E8" width="7.001" height="35.996"/>
-			
-				<rect x="4.795" y="99.587" transform="matrix(-0.9496 0.3135 -0.3135 -0.9496 49.904 207.1474)" fill="#E74C3C" width="7.002" height="15.999"/>
-			
-				<rect x="13.804" y="93.501" transform="matrix(-0.9495 0.3138 -0.3138 -0.9495 66.0555 195.3698)" fill="#E74C3C" width="6.999" height="19.001"/>
-			
-				<rect x="24.368" y="97.215" transform="matrix(-0.9495 0.3137 -0.3137 -0.9495 86.7106 192.4738)" fill="#E74C3C" width="7.001" height="11.997"/>
-			
-				<rect x="32.312" y="84.315" transform="matrix(-0.9496 0.3134 -0.3134 -0.9496 99.69 174.5973)" fill="#E74C3C" width="6.998" height="21.993"/>
-			
-				<rect x="41.177" y="77.283" transform="matrix(-0.9495 0.3138 -0.3138 -0.9495 115.4309 161.9914)" fill="#E74C3C" width="7.002" height="26.005"/>
-			
-				<rect x="53.814" y="93.628" transform="matrix(-0.9495 0.3138 -0.3138 -0.9495 142.0509 170.3934)" fill="#E74C3C" width="7" height="5.999"/>
-			
-				<rect x="61.716" y="80.774" transform="matrix(-0.9497 0.3133 -0.3133 -0.9497 154.956 152.6466)" fill="#E74C3C" width="6.999" height="15.995"/>
-		</g>
+			<ellipse id="svg_2" transform="matrix(-0.3097 -0.9508 0.9508 -0.3097 29.8014 111.3291)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="5" cx="55.314" cy="44.846" rx="44.192" ry="33.758"/>
+		
+			<ellipse id="svg_6" transform="matrix(-0.3097 -0.9508 0.9508 -0.3097 30.5809 220.1727)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="5" cx="95.216" cy="98.985" rx="13.503" ry="13.81"/>
+		
+			<ellipse id="svg_17" transform="matrix(-0.3097 -0.9508 0.9508 -0.3097 -25.4834 203.0644)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="5" cx="60.973" cy="110.783" rx="13.503" ry="13.81"/>
+		
+			<ellipse id="svg_7" transform="matrix(-0.3097 -0.9508 0.9508 -0.3097 -22.2996 207.7508)" stroke="#FFFFFF" stroke-width="5" cx="64.264" cy="111.97" rx="9.514" ry="8.593"/>
+		
+			<ellipse id="svg_9" transform="matrix(-0.3097 -0.9508 0.9508 -0.3097 26.8415 223.6604)" stroke="#FFFFFF" stroke-width="5" cx="94.612" cy="102.086" rx="9.514" ry="8.593"/>
+		
+			<ellipse id="svg_11" transform="matrix(0.1116 -0.9938 0.9938 0.1116 -30.4195 231.5615)" fill="#CCCCCC" stroke="#CCCCCC" stroke-width="5" cx="114.295" cy="132.793" rx="20.255" ry="7.979"/>
+		
+			<ellipse id="svg_12" transform="matrix(-0.7186 -0.6954 0.6954 -0.7186 -2.6306 300.2553)" fill="#CCCCCC" stroke="#CCCCCC" stroke-width="5" cx="59.436" cy="150.66" rx="20.255" ry="7.979"/>
+		<path id="svg_16" fill="#FFFF00" stroke="#FFFF00" stroke-width="5" d="M78.883,117.215c0.583-0.19,6.813-2.864,6.813-2.864
+			l0.707,10.098L78.883,117.215z"/>
+	</g>
+	<g opacity="0.8">
+		<polygon fill="#F3C848" points="58.025,-7.117 114.43,-24.38 131.534,29.739 76.972,47.765 		"/>
+	</g>
+	
+		<text transform="matrix(0.9447 -0.3279 0.3279 0.9447 86.6624 38.968)" opacity="0.8" fill="#333333" font-family="'Roboto-Regular'" font-size="37">JS</text>
+	<title>Blue Owl</title>
+	<g>
+		
+			<rect x="-0.818" y="17.857" transform="matrix(-0.9494 0.3139 -0.3139 -0.9494 48.6198 250.1886)" fill="#CCCCCC" width="9.965" height="222.306"/>
+	</g>
+	<g>
+		
+			<rect x="-12.402" y="21.056" transform="matrix(-0.947 0.3213 -0.3213 -0.947 46.0415 38.4528)" fill="#3399CC" width="64.501" height="3.937"/>
+	</g>
+	<g>
+		
+			<rect x="-5.505" y="38.556" transform="matrix(-0.947 0.3213 -0.3213 -0.947 65.0932 70.3091)" fill="#3399CC" width="64.501" height="3.937"/>
+	</g>
+	<g>
+		
+			<rect x="45.524" y="195.255" transform="matrix(-0.9494 0.3139 -0.3139 -0.9494 274.6926 352.0455)" fill="#999999" width="126.954" height="5.77"/>
 	</g>
 </g>
 <g id="occhiali">
