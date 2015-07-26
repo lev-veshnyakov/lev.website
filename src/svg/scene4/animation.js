@@ -14,26 +14,6 @@ Site.scenes['scene4'] = {
 	
 	render: function(pos, obj) {
 
-
-
-		if (obj.curTop > 4350 && obj.curTop < 4500) {
-
-			if (document.getElementById("vimeoPlayer") == null) {
-				Site.addVideoPlayer();
-			}
-
-			var rect = document.getElementById("iphone5positionpath").getBoundingClientRect();
-			$('#videoPlayer').css({
-				left: rect.left + 'px',
-				top: rect.top + 'px',
-				width: rect.width + 'px',
-				height: rect.height + 'px'
-			});
-
-
-
-		}
-
 		if (obj.curTop > this.minY && obj.curTop < this.maxY) {
 			if (obj.curTop - this.iskey > this.keyfreq && obj.direction == "down" || this.iskey - obj.curTop > this.keyfreq && obj.direction == "up") {
 				$('#scene4 #keyboard rect:eq( ' + this.keylast + ' )').css('fill', '#ccd1d9');

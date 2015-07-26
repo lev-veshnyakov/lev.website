@@ -21,30 +21,6 @@ $start: $scene_04_begin;
 }
 
 
-#videoPlayer {
-    -skrollr-animation-name: videoPlayer;
-}
-
-@-skrollr-keyframes videoPlayer {
-
-    #{$start + 1350} {
-        opacity: 0;
-        display:none;
-    }
-    #{$start + 1370} {
-        opacity: 1;
-        display:inline;
-    }
-    #{$start + 1590} {
-        opacity: 1;
-        display:inline;
-    }
-    #{$start + 1610} {
-        opacity: 0;
-        display:none;
-    }
-}
-
 
 #scene4 {
     #bg {
@@ -69,18 +45,8 @@ $start: $scene_04_begin;
     }
 
     #scene {
-        -skrollr-animation-name: scene4r;
         #iphone05 {
-            -webkit-transition: transform 2s linear;
-            transition: transform 2s linear;
-        }
-    }
-    @-skrollr-keyframes scene4r {
-        #{$start + 1150} {
-            transform: rotate(0deg) translate(0px, 0px) scale(1);
-        }
-        #{$start + 1350} {
-            transform: rotate(90deg) translate(-2600px, -3200px) scale(8);
+          opacity: 0;
         }
     }
 
@@ -127,7 +93,7 @@ $start: $scene_04_begin;
             -skrollr-animation-name: title2;
         }
         #title3 {
-            -skrollr-animation-name: title3;
+            opacity: 0;
         }
     }
     @-skrollr-keyframes title1 {
@@ -158,27 +124,12 @@ $start: $scene_04_begin;
         #{$start + 900} {
             opacity: 1;
         }
-        #{$start + 950} {
-            opacity: 0;
-        }
-    }
-
-    @-skrollr-keyframes title3 {
-        #{$start + 940} {
-            opacity: 0;
-        }
-        #{$start + 980} {
-            opacity: 1;
-        }
     }
 
     #desks {
         -skrollr-animation-name: desks;
         #employee {
             -skrollr-animation-name: employee;
-        }
-        #entrepeneur {
-            -skrollr-animation-name: entrepeneur;
         }
         #freelance {
             -skrollr-animation-name: freelance;
@@ -551,20 +502,8 @@ $start: $scene_04_begin;
         #{$start + 450} {
             opacity: 1;
         }
-        #{$start + 900} {
-            opacity: 1;
-        }
         #{$start + 950} {
             opacity: 0;
-        }
-    }
-
-    @-skrollr-keyframes entrepeneur {
-        #{$start + 900} {
-            opacity: 0;
-        }
-        #{$start + 950} {
-            opacity: 1;
         }
     }
 

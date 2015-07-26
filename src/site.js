@@ -21,9 +21,6 @@ Site.defaults = {
 	smoothScrollingDuration: 200,
 	smoothScrolling: true
 };
-Site.addVideoPlayer = function() {
-	$('#videoPlayer').append('<iframe id="vimeoPlayer" src="//player.vimeo.com/video/88016428" width="100%" height="100%"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>');
-};
 Site.ajax = function(url, data, datatype, success, failure) {
 	$.ajax({
 		type: 'get',
