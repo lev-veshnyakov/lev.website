@@ -193,41 +193,26 @@ Site.loadScene = function(element, callback) {
 	});
 };
 Site.clickEvents = function() {
-	$('#lalineag').bind('click', function() {
-		window.open('http://en.wikipedia.org/wiki/La_Linea_(TV_series)');
-	});
-	$('#intro2,#numidia').bind('click', function() {
-		window.open('http://www.numidia.it', '_blank');
-	});
 	$('#viewresume').bind('click', function() {
 		Site.hide();
 	});
 	$('#email').bind('click', function() {
-		window.open('mailto:albinotonnina@gmail.com');
+		window.open('mailto:weshnjakow@mail.ru');
 	});
 	$('#linkedin').bind('click', function() {
-		window.open('http://www.linkedin.com/in/albinotonnina', '_blank');
+		window.open('http://www.linkedin.com/in/weshnjakow', '_blank');
 	});
 	$('#phone').bind('click', function() {
-		window.open('tel:+393934318597');
+		window.open('tel:+79531561125');
 	});
 	$('#skype').bind('click', function() {
-		window.open('skype:albino.tonnina');
-	});
-	$('#l500px').bind('click', function() {
-		window.open('http://500px.com/albinotonnina', '_blank');
+		window.open('skype:weshnjakow');
 	});
 	$('#contactresume').bind('click', function() {
 		Site.hide();
 	});
 	$('#githubsite').bind('click', function() {
-		window.open('http://github.com/albinotonnina/albinotonnina.com', '_blank');
-	});
-	$('#worksharelogo,#junetext').bind('click', function() {
-		window.open('http://www.workshare.com', '_blank');
-	});
-	$('#pegu').bind('click', function() {
-		window.open('http://www.pegu.it', '_blank');
+		window.open('https://github.com/lev-veshnyakov/lev.website', '_blank');
 	});
 
 
