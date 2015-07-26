@@ -140,33 +140,8 @@ $start:$scene_05_begin;
 		
 	}
 
-	#junetext {
-		-skrollr-animation-name: june;
-	}
-
-	@-skrollr-keyframes june {
-
-		#{$start + 790} {
-			opacity:0;
-			display:none;
-		}
-
-
-		#{$start + 800} {
-			opacity:0;
-			display:block;
-		}
-
-		#{$start + 900} {
-			opacity:1;
-		}
-		#{$start + 1200} {
-			opacity:1;
-		}
-		#{$start + 1250} {
-			opacity:0;
-		}
-		
+	#june, #workshare {
+		display: none;
 	}
 
 
