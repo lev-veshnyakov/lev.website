@@ -1,24 +1,22 @@
-# albinotonnina.com
+# lev.website
 
 
 ## Overview
 
-Project files for <http://www.albinotonnina.com>
+Project files for <http://lev.website>
 
-node.js and express version on heroku: http://albinotonnina.herokuapp.com
 
 ### Built with
-1. [Sublime Text 3](http://www.sublimetext.com/3)
-2. Adobe Illustrator
+1. Adobe Illustrator
 
 ### Tools
 
-![Yeoman icon](http://www.albinotonnina.com/githubassets/yo.gif "https://github.com/yeoman/yo")
+![Yeoman icon](http://lev.website/githubassets/yo.gif "https://github.com/yeoman/yo")
 [**yo**](https://github.com/yeoman/yo) scaffolds out a new application, writing your Grunt configuration and pulling in relevant Grunt tasks and Bower dependencies that you might need for your build.
 
-![Grunt icon](http://www.albinotonnina.com/githubassets/grunt.gif "http://gruntjs.com")[**Grunt**](http://gruntjs.com) is used to build, preview and test your project, thanks to help from tasks curated by the Yeoman team and grunt-contrib.
+![Grunt icon](http://lev.website/githubassets/grunt.gif "http://gruntjs.com")[**Grunt**](http://gruntjs.com) is used to build, preview and test your project, thanks to help from tasks curated by the Yeoman team and grunt-contrib.
 
-![Bower icon](http://www.albinotonnina.com/githubassets/bower.gif "http://bower.io") [**Bower**](http://bower.io) is used for dependency management, so that you no longer have to manually download and manage your scripts.
+![Bower icon](http://lev.website/githubassets/bower.gif "http://bower.io") [**Bower**](http://bower.io) is used for dependency management, so that you no longer have to manually download and manage your scripts.
 
 ### Libraries
 
